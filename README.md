@@ -43,7 +43,9 @@ https://lizandrocv.herokuapp.com/
 https://www.linkedin.com/in/lizandro23difo/
 
 
+#### 100 days of code
 
+[![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)
  
 <!--
 **difo23/difo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
