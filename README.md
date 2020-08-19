@@ -36,11 +36,11 @@ Digital Register for school grades- I am currently working on a personal project
 I seek to make the learning of programming more accessible to Dominican youth
 
 #### 📫 How to reach me: ...
-##### My CV with React:
-https://lizandrocv.herokuapp.com/
 
-#### Linkedin:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/lizandro23difo/)
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" />](https://lizandrocv.herokuapp.com/) | [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/lizandro23difo/)
+
+
 
 
 #### 100 days of code
