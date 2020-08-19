@@ -1,8 +1,13 @@
 ### Hi there 👋
 Enthusiast of continuous learning about the use of technology to solve problems creatively. My professional training allows me to cover solutions with distributed systems, software development and the Internet of Things. If you want to know more about me, then I will show some of my projects.
 
-#### Education
+#### 📫 How to reach me: ...
 
+[<img height="32" width="32" src="https://www.downloadclipart.net/thumb/resume-png-clipart.png" />](https://lizandrocv.herokuapp.com/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/lizandro23difo/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lizandro23difo) 
+
+
+
+#### Education
 
 * Master's Degree in Distributed and Embedded Systems Software
   Universidad Politécnica de Madrid (UPM)
@@ -13,9 +18,14 @@ Enthusiast of continuous learning about the use of technology to solve problems 
 * Degree Technical for industrial electronics specialty communications
   Instituto Politécnico Loyola (IPL)
   2003 - 2006
+  
+### Programming languages and Tools:
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img height="32" width="32" src="https://simpleicons.org/icons/mongodb.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img height="32" width="32" src="https://simpleicons.org/icons/c.svg" /><img height="32" width="32" src="https://simpleicons.org/icons/git.svg" /><img height="32" width="32" src="https://camo.githubusercontent.com/c82d5dbe0efc4f71771b4c656fd96b91d6103a8d/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" /><img height="32" width="32" src="https://simpleicons.org/icons/deno.svg" />
 
-#### 🔭 I’m currently working on ...
-Digital Register for school grades- I am currently working on a personal project, consisting of a system of management of school grades that works in a distributed manner throughout the territory of the Dominican Republic.
+
 
 #### 🌱 I’m currently learning ...
 
@@ -35,10 +45,7 @@ Digital Register for school grades- I am currently working on a personal project
  
 I seek to make the learning of programming more accessible to Dominican youth
 
-#### 📫 How to reach me: ...
 
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" />](https://lizandrocv.herokuapp.com/) | [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/lizandro23difo/)
 
 
 
