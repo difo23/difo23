@@ -55,7 +55,7 @@ I seek to make the learning of programming more accessible to Dominican youth
 
 [![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)
 
-[![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+[![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://difo23the100daysofcode.netlify.app)
 
 ##### The 100 days Gastby Site:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/958582c3-7898-41a9-a4a9-a96b96b338bd/deploy-status)](https://app.netlify.com/sites/difo23the100daysofcode/deploys)
