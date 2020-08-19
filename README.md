@@ -31,17 +31,16 @@ Enthusiast of continuous learning about the use of technology to solve problems 
 
 #### 🌱 I’m currently learning ...
 
-* Functional programming, 
+* Functional programming with JS, 
 * React Context API,
 * MERN,
 * React Hooks,
 * Firestore,
 * Redux,
 * Testing with jest,
-* CRUD with MERN,
-* Logs,
 * SASS,
-* Multiple Routers with react...
+* Rust
+* Gatsbyjs
 
 #### 🤔 I’m looking for help with ...
  
