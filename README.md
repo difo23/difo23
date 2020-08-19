@@ -20,10 +20,10 @@ Enthusiast of continuous learning about the use of technology to solve problems 
   2003 - 2006
   
 ### Programming languages and Tools:
-<img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> <img height="32" width="32" src="https://img.icons8.com/color/2x/react-native.png" /><img height="32" width="32" src="https://icons8.com/icon/54087/nodejs" />
+<img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> <img height="32" width="32" src="https://img.icons8.com/color/2x/react-native.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/nodejs.png" />
 <img height="32" width="32" src="https://img.icons8.com/color/2x/mongodb.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img height="32" width="32" src="https://simpleicons.org/icons/c.svg" /><img height="32" width="32" src="https://simpleicons.org/icons/git.svg" /><img height="32" width="32" src="https://camo.githubusercontent.com/c82d5dbe0efc4f71771b4c656fd96b91d6103a8d/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" /><img height="32" width="32" src="https://simpleicons.org/icons/deno.svg" />
+<img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" />
+<img height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" /><img height="32" width="32" src="https://simpleicons.org/icons/git.svg" /><img height="32" width="32" src="https://camo.githubusercontent.com/c82d5dbe0efc4f71771b4c656fd96b91d6103a8d/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" /><img height="32" width="32" src="https://simpleicons.org/icons/deno.svg" />
 
 
 
