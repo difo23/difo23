@@ -8,7 +8,7 @@ Enthusiast of continuous learning about the use of technology to solve problems 
 
 [<img height="32" width="32" src="https://www.downloadclipart.net/thumb/resume-png-clipart.png" />](https://lizandrocv.herokuapp.com/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/lizandro23difo/)  
 
-### Twitter
+##### Twitter
 
 <p align="left"> <a href="https://twitter.com/lizandro23difo" target="blank"><img src="https://img.shields.io/twitter/follow/lizandro23difo?logo=twitter&style=for-the-badge" alt="lizandro23difo" /></a> </p>
 
