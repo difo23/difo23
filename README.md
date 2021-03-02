@@ -1,6 +1,14 @@
 ### Hi there 👋
 Enthusiast of continuous learning about the use of technology to solve problems creatively. My professional training allows me to cover solutions with distributed systems, software development and the Internet of Things. If you want to know more about me, then I will show some of my projects.
 
+## GitHub Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoid29&label=Profile%20views&color=0e75b6&style=flat" alt="arzoid29" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoid29" alt="arzoid29" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/arzoidss" target="blank"><img src="https://img.shields.io/twitter/follow/arzoidss?logo=twitter&style=for-the-badge" alt="arzoidss" /></a> </p>
+
 #### 📫 How to reach me: ...
 
 [<img height="32" width="32" src="https://www.downloadclipart.net/thumb/resume-png-clipart.png" />](https://lizandrocv.herokuapp.com/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/lizandro23difo/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lizandro23difo) 
