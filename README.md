@@ -49,22 +49,26 @@ Enthusiast of continuous learning about the use of technology to solve problems 
 
 #### 🌱 I’m currently learning ...
 
-* Functional programming with JS, 
-* React Context API,
-* MERN,
-* React Hooks,
-* Firestore,
-* Redux,
-* Testing with jest,
-* SASS,
+* Functional programming with JS
+* MicroFrontEnd
+* MicroServices
+* Docker
+* Kibernete
+* AWS
+* TensorFlow
+* VIM
+* React Context API
+* MERN
+* React Hooks
+* Firestore
+* Redux
+* Testing with jest
 * Rust
 * Gatsbyjs
 
 #### 🤔 I’m looking for help with ...
  
 I seek to make the learning of programming more accessible to Dominican youth
-
-
 
 
 
