@@ -21,7 +21,7 @@ Enthusiast of continuous learning about the use of technology to solve problems 
 
 #### 📫 How to reach me: ...
 
-[<img height="32" width="32" src="https://www.downloadclipart.net/thumb/resume-png-clipart.png" />](https://lizandrocv.herokuapp.com/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/lizandro23difo/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/lizandro23difo) 
+[<img height="32" width="32" src="https://www.downloadclipart.net/thumb/resume-png-clipart.png" />](https://lizandrocv.herokuapp.com/)  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/lizandro23difo/)  
 
 
 
