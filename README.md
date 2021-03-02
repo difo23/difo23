@@ -3,11 +3,11 @@ Enthusiast of continuous learning about the use of technology to solve problems 
 
 ## GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoid29&label=Profile%20views&color=0e75b6&style=flat" alt="arzoid29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=difo23&label=Profile%20views&color=0e75b6&style=flat" alt="difo23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoid29" alt="arzoid29" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=difo23" alt="difo23" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arzoidss" target="blank"><img src="https://img.shields.io/twitter/follow/arzoidss?logo=twitter&style=for-the-badge" alt="arzoidss" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lizandro23difo" target="blank"><img src="https://img.shields.io/twitter/follow/lizandro23difo?logo=twitter&style=for-the-badge" alt="lizandro23difo" /></a> </p>
 
 #### 📫 How to reach me: ...
 
