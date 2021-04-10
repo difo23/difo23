@@ -181,7 +181,7 @@ I seek to make the learning of programming more accessible to Dominican youth.
 
 
 ## GitHub Stats
-
+<div>
 <p align="left">  
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=difo23" alt="difo23" /></a>
 </p>
@@ -191,18 +191,18 @@ I seek to make the learning of programming more accessible to Dominican youth.
 <p align="left" >
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=difo23&show_icons=true&locale=en&layout=compact" alt="difo23" />
 </p>
+</div>
 
 
 
-
-#### 100 days of code:   
+#### 100 days of code: 
+[![100 day of code site Status](https://api.netlify.com/api/v1/badges/958582c3-7898-41a9-a4a9-a96b96b338bd/deploy-status)](https://difo23the100daysofcode.netlify.app/)
 
 [![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)  
 
-[![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://difo23the100daysofcode.netlify.app)   
+[![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://difo23the100daysofcode.netlify.app)      
+   
 
-#### The 100 days Gastby Site:     
-[![Netlify Status](https://api.netlify.com/api/v1/badges/958582c3-7898-41a9-a4a9-a96b96b338bd/deploy-status)](https://difo23the100daysofcode.netlify.app/)
 
 <!--
 **difo23/difo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
