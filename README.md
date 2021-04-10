@@ -2,7 +2,15 @@
 <h1 align='center'>
   <strong> Hi there 👋 I'm Lizandro 👨‍💻</strong>
 </h1>
-<p align='center'> A Software Developer and Enthusiastic Data Scientist from Dominican Republic.</p>
+<p align='center'> 
+ 
+  <a href="https://www.linkedin.com/in/lizandro23difo/">
+  <img src="https://komarev.com/ghpvc/?username=difo23&label=Profile%20views&color=0e75b6&style=flat" alt="difo23" />
+</a>
+</p>
+<p align='center'> 
+  A Software Developer and Enthusiastic Data Scientist from Dominican Republic.
+</p>
 <p align='center'>
   I love learning about technologies and teaching others about this exciting world of software development.
 </p>
@@ -16,10 +24,6 @@
  <a href="https://twitter.com/lizandro23difo" target="blank">
   <img src="https://img.shields.io/twitter/follow/lizandro23difo?logo=twitter&style=for-the-badge" alt="lizandro23difo" />
 </a>
- <a href="https://www.linkedin.com/in/lizandro23difo/">
-  <img src="https://komarev.com/ghpvc/?username=difo23&label=Profile%20views&color=0e75b6&style=flat" alt="difo23" />
-</a>
-   
   
 </p>
 
