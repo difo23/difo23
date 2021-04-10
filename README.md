@@ -135,7 +135,7 @@
 </p>
 
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning:
 
 1. MicroFrontEnd
 2. MicroServices
