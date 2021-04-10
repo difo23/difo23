@@ -3,19 +3,17 @@
   <strong> Hi there 👋 I'm Lizandro 👨‍💻</strong>
 </h1>
 <p align='center'> 
- 
-  <a href="https://www.linkedin.com/in/lizandro23difo/">
-  <img src="https://komarev.com/ghpvc/?username=difo23&label=Profile%20views&color=0e75b6&style=flat" alt="difo23" />
-</a>
-</p>
-<p align='center'> 
   A Software Developer and Enthusiastic Data Scientist from Dominican Republic.
 </p>
+
+
 <p align='center'>
   I love learning about technologies and others stuff in Platzi.   </br>
   My passion is teaching others about this exciting world of software development.
 </p>
-
+<p align='center'> 
+  A Software Developer and Enthusiastic Data Scientist from Dominican Republic.
+</p>
 
 <p align='center'>
   
