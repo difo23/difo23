@@ -1,14 +1,26 @@
-### Hi there 👋
-Enthusiast of continuous learning about the use of technology to solve problems creatively. My professional training allows me to cover solutions with distributed systems, software development and the Internet of Things. If you want to know more about me, then I will show some of my projects.
 
-##### Twitter
+<h1 align='center'>
+  <strong> Hi there 👋 I'm Lizandro 👨‍💻</strong>
+</h1>
+<p align='center'> A Software Developer and Enthusiastic Data Scientist from Dominican Republic.</p>
+<p align='center'>
+  I love learning about technologies and teaching others about this exciting world of software development.
+</p>
 
-<p align="left"> <a href="https://twitter.com/lizandro23difo" target="blank"><img src="https://img.shields.io/twitter/follow/lizandro23difo?logo=twitter&style=for-the-badge" alt="lizandro23difo" /></a> </p>
 
-#### Linkedln
-[<im src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lizandro23difo/)
+<p align='center'>
+  
 
-#### Education
+  <a href="https://www.linkedin.com/in/lizandro23difo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank"><img src="https://img.shields.io/twitter/follow/lizandro23difo?logo=twitter&style=for-the-badge" alt="lizandro23difo" /></a>
+  
+</p>
+
+
+
+## Education
 
 * Master's Degree in Distributed and Embedded Systems Software
   Universidad Politécnica de Madrid (UPM)
@@ -20,34 +32,141 @@ Enthusiast of continuous learning about the use of technology to solve problems 
   Instituto Politécnico Loyola (IPL)
   2003 - 2006
   
-### Programming languages and Tools:
-<img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" /> <img height="32" width="32" src="https://img.icons8.com/color/2x/react-native.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/nodejs.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/mongodb.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" />
-<img height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" /><img height="32" width="32" src="https://simpleicons.org/icons/git.svg" /><img height="32" width="32" src="https://camo.githubusercontent.com/c82d5dbe0efc4f71771b4c656fd96b91d6103a8d/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" /><img height="32" width="32" src="https://simpleicons.org/icons/deno.svg" /><img height="32" width="32" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/ubuntu.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/hadoop-distributed-file-system.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/linux.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/more.png" />
+## Programming languages:
+<p align='center'>
+  <a href="https://www.linkedin.com/in/lizandro23difo/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="lizandro23difo" />
+  </a>
+    &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="lizandro23difo" />
+  </a>
+</p>
+
+## Frameworks and libraries:
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/lizandro23difo/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="lizandro23difo" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="lizandro23difo" />
+  </a>
+    &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="lizandro23difo" />
+  </a>
+  
+</p>
+
+## Database and cloud:
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/lizandro23difo/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="lizandro23difo" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="lizandro23difo" />
+  </a>
+    &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="lizandro23difo" />
+  </a>
+  
+</p>
+
+
+## 🌱 I’m currently learning ...
+
+1. MicroFrontEnd
+2. MicroServices
+3. TensorFlow
+4. VIM
 
 
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/lizandro23difo/">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="lizandro23difo" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="lizandro23difo" />
+  </a>
+    &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="lizandro23difo" />
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="lizandro23difo" />
+  </a>
+     &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="lizandro23difo" />
+  </a>
+    &nbsp;&nbsp;
+   <a href="https://twitter.com/lizandro23difo" target="blank">
+     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="lizandro23difo" />
+  </a>
 
+</p>
 
-#### 🌱 I’m currently learning ...
-
-* Functional programming with JS
-* MicroFrontEnd
-* MicroServices
-* Docker
-* Kibernete
-* AWS
-* TensorFlow
-* VIM
-* React Context API
-* MERN
-* React Hooks
-* Firestore
-* Redux
-* Testing with jest
-* Rust
-* Gatsbyjs
 
 #### 🤔 I’m looking for help with ...
  
