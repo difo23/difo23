@@ -10,17 +10,22 @@
 
 <p align='center'>
   
-
   <a href="https://www.linkedin.com/in/lizandro23difo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/lizandro23difo" target="blank"><img src="https://img.shields.io/twitter/follow/lizandro23difo?logo=twitter&style=for-the-badge" alt="lizandro23difo" /></a>
+ <a href="https://twitter.com/lizandro23difo" target="blank">
+  <img src="https://img.shields.io/twitter/follow/lizandro23difo?logo=twitter&style=for-the-badge" alt="lizandro23difo" />
+</a>
+ <a href="https://www.linkedin.com/in/lizandro23difo/">
+  <img src="https://komarev.com/ghpvc/?username=difo23&label=Profile%20views&color=0e75b6&style=flat" alt="difo23" />
+</a>
+   
   
 </p>
 
 
 
-## Education
+### Education
 
 * Master's Degree in Distributed and Embedded Systems Software
   Universidad Politécnica de Madrid (UPM)
@@ -32,8 +37,8 @@
   Instituto Politécnico Loyola (IPL)
   2003 - 2006
   
-## Programming languages:
-<p align='center'>
+### Programming languages:
+<p align='left'>
   <a href="https://www.linkedin.com/in/lizandro23difo/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -58,9 +63,9 @@
   </a>
 </p>
 
-## Frameworks and libraries:
+### Frameworks and libraries:
 
-<p align='center'>
+<p align='leftr'>
   <a href="https://www.linkedin.com/in/lizandro23difo/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>&nbsp;&nbsp;
@@ -93,9 +98,9 @@
   
 </p>
 
-## Database and cloud:
+### Database and cloud:
 
-<p align='center'>
+<p align='left'>
   <a href="https://www.linkedin.com/in/lizandro23difo/">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -125,16 +130,14 @@
 </p>
 
 
-## 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
 1. MicroFrontEnd
 2. MicroServices
 3. TensorFlow
 4. VIM
 
-
-
-<p align='center'>
+<p align='left'>
   <a href="https://www.linkedin.com/in/lizandro23difo/">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -168,14 +171,14 @@
 </p>
 
 
-#### 🤔 I’m looking for help with ...
+## 🤔 I’m looking for help with ...
  
 I seek to make the learning of programming more accessible to Dominican youth
 
 
 ## GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=difo23&label=Profile%20views&color=0e75b6&style=flat" alt="difo23" /> </p>
+<p align="center">  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=difo23" alt="difo23" /></a> </p>
 
