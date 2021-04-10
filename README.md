@@ -177,17 +177,20 @@
 
 ## 🤔 I’m looking for help with ...
  
-I seek to make the learning of programming more accessible to Dominican youth
+I seek to make the learning of programming more accessible to Dominican youth.
 
 
 ## GitHub Stats
 
-<p align="center">  </p>
+<p align="left">  
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=difo23" alt="difo23" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=difo23" alt="difo23" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=difo23&show_icons=true&locale=en&layout=compact" alt="difo23" /></p>
+<p align="left" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=difo23&show_icons=true&locale=en&layout=compact" alt="difo23" />
+</p>
 
 
 
@@ -198,7 +201,7 @@ I seek to make the learning of programming more accessible to Dominican youth
 
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://difo23the100daysofcode.netlify.app)
 
-##### The 100 days Gastby Site:
+#### The 100 days Gastby Site:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/958582c3-7898-41a9-a4a9-a96b96b338bd/deploy-status)](https://difo23the100daysofcode.netlify.app/)
 
 <!--
