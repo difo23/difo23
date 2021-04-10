@@ -6,7 +6,7 @@ Enthusiast of continuous learning about the use of technology to solve problems 
 <p align="left"> <a href="https://twitter.com/lizandro23difo" target="blank"><img src="https://img.shields.io/twitter/follow/lizandro23difo?logo=twitter&style=for-the-badge" alt="lizandro23difo" /></a> </p>
 
 #### Linkedln
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/lizandro23difo/)
+[<im src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lizandro23difo/)
 
 #### Education
 
