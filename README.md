@@ -12,7 +12,8 @@
   A Software Developer and Enthusiastic Data Scientist from Dominican Republic.
 </p>
 <p align='center'>
-  I love learning about technologies and others stuff in Platzi. My passion is teaching others about this exciting world of software development.
+  I love learning about technologies and others stuff in Platzi. 
+  My passion is teaching others about this exciting world of software development.
 </p>
 
 
