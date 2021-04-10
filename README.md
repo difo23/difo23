@@ -146,9 +146,7 @@
 4. VIM
 
 <p align='left'>
-  <a href="https://www.linkedin.com/in/lizandro23difo/">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>&nbsp;&nbsp;
+
    <a href="https://twitter.com/lizandro23difo" target="blank">
      <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="lizandro23difo" />
   </a>&nbsp;&nbsp;
