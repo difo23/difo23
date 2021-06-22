@@ -76,10 +76,8 @@
 <p align='leftr'>
   <a href="https://www.linkedin.com/in/lizandro23difo/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/lizandro23difo" target="blank">
-     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="lizandro23difo" />
-  </a>&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
    <a href="https://twitter.com/lizandro23difo" target="blank">
      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="lizandro23difo" />
   </a>
@@ -87,10 +85,7 @@
    <a href="https://twitter.com/lizandro23difo" target="blank">
      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="lizandro23difo" />
   </a>
-    &nbsp;&nbsp;
-   <a href="https://twitter.com/lizandro23difo" target="blank">
-     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="lizandro23difo" />
-  </a>
+    
    &nbsp;&nbsp;
    <a href="https://twitter.com/lizandro23difo" target="blank">
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="lizandro23difo" />
@@ -99,10 +94,7 @@
    <a href="https://twitter.com/lizandro23difo" target="blank">
      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="lizandro23difo" />
   </a>
-   &nbsp;&nbsp;
-   <a href="https://twitter.com/lizandro23difo" target="blank">
-     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="lizandro23difo" />
-  </a>
+   
   
 </p>
 
@@ -122,10 +114,7 @@
    <a href="https://twitter.com/lizandro23difo" target="blank">
      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="lizandro23difo" />
   </a>
-    &nbsp;&nbsp;
-   <a href="https://twitter.com/lizandro23difo" target="blank">
-     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="lizandro23difo" />
-  </a>
+   
    &nbsp;&nbsp;
    <a href="https://twitter.com/lizandro23difo" target="blank">
      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="lizandro23difo" />
