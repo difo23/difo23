@@ -179,11 +179,6 @@ I seek to make the learning of programming more accessible to Dominican youth.
 
 
 
-<p align="left" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=difo23&show_icons=true&locale=en&layout=compact" alt="difo23" />
-</p>
-</div>
-
 
 
 #### 100 days of code: 
