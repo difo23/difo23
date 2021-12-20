@@ -44,6 +44,10 @@
 * Degree Technical for industrial electronics specialty communications
   Instituto Politécnico Loyola (IPL)
   2003 - 2006
+
+### Lastest personal projects:
+[Escuela APP](https://cemasclient.web.app)- Digital Register for school grades and teacher planning
+[Website Lizandro's Code Diaries](https://diariesofcode.netlify.app/) - Code Diaries is a challenge / community, where you publicly commit to code every day for a period of time while learning something new.
   
 ### Programming languages:
 <p align='left'>
