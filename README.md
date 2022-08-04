@@ -3,7 +3,7 @@
   <strong> Hi there 👋 I'm Lizandro 👨‍💻</strong>
 </h1>
 <p align='center'> 
-  A Software Developer and Enthusiastic Data Scientist from Dominican Republic.
+  A Software Developer, Data Engineer and Enthusiastic Data Scientist from Dominican Republic.
 </p>
 <p align='center'> 
 
