@@ -12,7 +12,7 @@
 </a>
 </p>
 <p align='center'>
-  I love learning about technologies and others stuff in Platzi.   </br>
+  I love learning about programming and data.   </br>
   My passion is teaching others about this exciting world of software development.
 </p>
 
